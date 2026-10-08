@@ -1,9 +1,19 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
+"NCAA":
+  url: https://link.springer.com/journal/521
   color: "#00369f"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"Sci. Rep.":
+  url: https://www.nature.com/srep/
+  color: "#c0392b"
 
-"Vision":
+"ECAI-W":
   color: "#009f36"
+
+"IDA":
+  color: "#6f42c1"
+
+"INDIN":
+  color: "#e67e22"
+
+"CLeaR":
+  color: "#0d7c66"
